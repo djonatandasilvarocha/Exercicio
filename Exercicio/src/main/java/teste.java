@@ -1,5 +1,5 @@
 public class teste {
     public void primeiroCommit() {
-        System.out.println("Commit 02");
+        System.out.println("Primeiro Commit");
     }
 }
